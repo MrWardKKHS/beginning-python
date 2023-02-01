@@ -1,9 +1,12 @@
-from os import listdir
-from os.path import isfile, join
-onlyfiles = [f for f in listdir('.') if isfile(join('./', f)) and f.endswith(".py")]
+import os
+from fnmatch import fnmatch
 
-for file in onlyfiles:
-    with open(file, 'a') as f:
-        f.write('"""\n\n"""')"""
+root = './tests'
+pattern = "*.py"
 
-"""
+for path, subdirs, files in os.walk(root):
+    for name in files:
+        if fnmatch(name, pattern):
+            new_name = 'test_' + name
+            print(os.path.join(path, name))
+            os.rename(os.path.join(path, name), os.path.join(path, new_name))
