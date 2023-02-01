@@ -9,11 +9,11 @@ Setting Up Python in Visual Studio Code 💻
 
 To get started with Python in Visual Studio Code, follow these steps:
 
-    Open Visual Studio Code and create a new file with a .py extension.
-    Install the Python extension for Visual Studio Code.
-    Open the command pallette with `Ctl + shift + p`
-    Change the default shell to `bash` by searching for `Terminal: Select Default Profile` in the command pallette 
-    Start writing and running your Python code!
+- Open Visual Studio Code and create a new file with a .py extension.
+- Install the Python extension for Visual Studio Code.
+- Open the command pallette with `Ctl + shift + p`
+- Change the default shell to `bash` by searching for `Terminal: Select Default Profile` in the command pallette 
+- Start writing and running your Python code!
 
 And that's it! You are now ready to start coding in Python with Visual Studio Code. Happy coding! 🎉
 
