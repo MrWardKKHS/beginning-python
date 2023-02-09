@@ -23,4 +23,11 @@ If you have any questions or issues during the setup, don't hesitate to reach ou
 
 This repo contains all the tasks that you need to complete on the side. You will find the instructions at the top of each file. 
 
-Once you think you have completed one of the tasks run `pytest file.py` in the command line.
+## Testing
+Although you can complete these exercises without test, they can be helpful to make sure your code works as expected. 
+
+Tests live in the testing folder and you will need to install pytest to run them. `pip install pytest`
+
+Once you think you have completed one of the tasks run the test for the file eg `pytest tests/exercise-1/e1p1.py` in the command line.
+
+To run all the test in a folder run `pytest tests/exercise-1`
