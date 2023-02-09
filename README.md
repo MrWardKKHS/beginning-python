@@ -24,7 +24,7 @@ If you have any questions or issues during the setup, don't hesitate to reach ou
 This repo contains all the tasks that you need to complete on the side. You will find the instructions at the top of each file. 
 
 ## Testing
-Although you can complete these exercises without test, they can be helpful to make sure your code works as expected. 
+Although you can complete these exercises without tests, they can be helpful to make sure your code works as expected. 
 
 Tests live in the testing folder and you will need to install pytest to run them. `pip install pytest`
 
