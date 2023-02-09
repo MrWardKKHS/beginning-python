@@ -13,7 +13,7 @@ def test_inches_to_cm():
     import sys
     sys.stdin = StringIO("10\n")
     sys.stdout = StringIO()
-    exec(open("student_program.py").read())
+    exec(open("exercise-1/e1p4.py").read())
     output = sys.stdout.getvalue().strip()
     
     # assert that the correct output was printed

@@ -14,7 +14,7 @@ def test_average_of_three_numbers():
     import sys
     sys.stdin = StringIO("10\n20\n30\n")
     sys.stdout = StringIO()
-    exec(open("student_program.py").read())
+    exec(open("exercise-1/e1p6.py").read())
     output = sys.stdout.getvalue().strip()
     
     # split the output into lines

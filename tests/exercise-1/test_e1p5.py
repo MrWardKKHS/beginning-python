@@ -14,7 +14,7 @@ def test_age_in_2050():
     import sys
     sys.stdin = StringIO("30\n")
     sys.stdout = StringIO()
-    exec(open("student_program.py").read())
+    exec(open("exercise-1/e1p5.py").read())
     output = sys.stdout.getvalue().strip()
     
     # split the output into lines

@@ -9,7 +9,7 @@ def test_hello_user():
     import sys
     sys.stdin = StringIO("Test User\n")
     sys.stdout = StringIO()
-    exec(open("student_program.py").read())
+    exec(open("exercise-1/e1p2.py").read())
     output = sys.stdout.getvalue().strip()
     
     # assert that the correct output was printed
