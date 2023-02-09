@@ -28,6 +28,6 @@ Although you can complete these exercises without test, they can be helpful to m
 
 Tests live in the testing folder and you will need to install pytest to run them. `pip install pytest`
 
-Once you think you have completed one of the tasks run the test for the file eg `pytest tests/exercise-1/e1p1.py` in the command line.
+Once you think you have completed one of the tasks run the test for the file eg `python -m pytest tests/exercise-1/e1p1.py` in the command line.
 
-To run all the test in a folder run `pytest tests/exercise-1`
+To run all the test in a folder run `python -m pytest tests/exercise-1`
