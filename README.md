@@ -2,10 +2,13 @@
 
 Are you ready to dive into the world of programming and learn Python? Then, this course is for you!
 
+This repo is a companion to the videos on [Coding With Mr Ward](https://www.youtube.com/watch?v=eVrM5WsMgrk&list=PL-NaYeCEwvWjZIC7aTKUvQwb-_1Sy8a4A)
+
 # Course Overview 📚
 
 In this course, you will learn the basics of Python programming language and its concepts such as data types, variables, loops, functions, etc. You will also learn how to write and run simple programs and solve real-world problems.
-Setting Up Python in Visual Studio Code 💻
+
+# Setting Up Python in Visual Studio Code 💻
 
 To get started with Python in Visual Studio Code, follow these steps:
 
