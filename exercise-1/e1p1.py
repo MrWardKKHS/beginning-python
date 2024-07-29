@@ -5,3 +5,6 @@ https://www.youtube.com/watch?v=eVrM5WsMgrk&list=PL-NaYeCEwvWjZIC7aTKUvQwb-_1Sy8
 
 1.	Write a program that will print out your name, address and telephone number each on a separate line.
 """
+print("Hi!, my name is Alex!")
+print("123 Fakestreet")
+print("1234567890")
