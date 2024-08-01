@@ -5,11 +5,3 @@ ______ inches is equal to _______ cm
 
 (1 inch = 2.54 cm)
 """
-inches = int(input("How many inches would you like to convert\n"))
-print(f"{inches} inches is {inches * 2.54}cm")
-
-
-
-
-8 
-"8"
