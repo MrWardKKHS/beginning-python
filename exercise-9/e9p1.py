@@ -7,5 +7,4 @@ The number is ___
 3 times _____ is ______
 etc up to 12 times
 on separate lines.
-
 """

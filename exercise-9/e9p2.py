@@ -10,5 +10,4 @@ Change form $50
 	50c coins: 0
 	20c coins: 1
 	10c coins: 1
-
 """

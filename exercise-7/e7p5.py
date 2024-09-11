@@ -7,5 +7,4 @@ b.	a noun
 c.	a past tense verb
 Then you will print a sentence like:
 The [adjective] [noun] [verb] over the lazy brown dog.
-
 """

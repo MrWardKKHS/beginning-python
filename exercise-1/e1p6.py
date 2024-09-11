@@ -4,6 +4,4 @@
 The numbers were ___, ____ and _____
 The total of these numbers is ___________
 The average of these numbers is _____________
-
-
 """
